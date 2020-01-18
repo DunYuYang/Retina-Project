@@ -1,0 +1,38 @@
+<annotation>
+	<folder>R_train</folder>
+	<filename>CNV-137351-127.jpeg</filename>
+	<path>C:\Users\user\Desktop\Machine Learning\人工智慧學校\專題\R_train\CNV-137351-127.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>496</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CNV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>254</ymin>
+			<xmax>491</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CNV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>235</ymin>
+			<xmax>671</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

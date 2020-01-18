@@ -1,0 +1,26 @@
+<annotation>
+	<folder>未命名檔案夾</folder>
+	<filename>DRUSEN-228939-1.jpeg</filename>
+	<path>/Users/jimmytan/Desktop/ＡＩＡ/data/視網膜/Train/DRUSEN/未命名檔案夾/DRUSEN-228939-1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>496</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DRUSEN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>200</ymin>
+			<xmax>535</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

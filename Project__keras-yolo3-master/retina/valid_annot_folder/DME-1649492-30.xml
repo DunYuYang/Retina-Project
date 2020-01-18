@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Object_Detection	DME</folder>
+	<filename>DME-1649492-30.jpeg</filename>
+	<path>C:\Users\user\Desktop\windows_v1.8.1\Object_Detection	DME\DME-1649492-30.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DME</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>26</ymin>
+			<xmax>291</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
